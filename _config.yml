@@ -1,9 +1,9 @@
 # Site settings
-title: chendaide Blog
-SEOTitle: 陈戴德的博客 | chendaide Blog
+title: 陈戴德 Blog
+SEOTitle: 陈戴德的博客 | 陈戴德 Blog
 header-img: img/home-bg.jpg
 email: donajubus@gmail.com
-description: "这里是 @chendaide黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 @chendaide的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "陈戴德, chendaide陈戴德, 陈戴德, 鬼栈, @chendaide, 陈戴德的博客, chendaide Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
